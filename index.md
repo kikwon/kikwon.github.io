@@ -17,7 +17,7 @@
 
 ---
 
-Project 4: CSC 515 Data Science](http://example.com/)
+[Project 4: CSC 515 Data Science](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
